@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1590402031 "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.tex" "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.pdf" "Blatt_4" 1590402031
+["pdflatex"] 1590419931 "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.tex" "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.pdf" "Blatt_3,Olbrich,Rotgeri" 1590419931
   "/dev/null" 1589896833 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/etc/texmf/web2c/texmf.cnf" 1582648006 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.aux" 1590402031 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.tex" 1590402029 2996 883749184581857bdffb0cad29d433c1 ""
+  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.aux" 1590419931 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.tex" 1590419929 3363 65b7f40d3373c351d672dbaabc3aa193 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -97,12 +97,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1562720991 35073 2a40cfca74fcd5e2568b569ccaadf3f1 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1582648499 4549418 4593509275c90822931a1b14bc17851e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1582648527 4262539 95b0597d07ee33273c94b53987c87bf2 ""
-  "Blatt_4.aux" 0 -1 0 "pdflatex"
-  "Blatt_4.tex" 1590402029 2996 883749184581857bdffb0cad29d433c1 ""
+  "Blatt_3,Olbrich,Rotgeri.aux" 0 -1 0 "pdflatex"
+  "Blatt_3,Olbrich,Rotgeri.tex" 1590419929 3363 65b7f40d3373c351d672dbaabc3aa193 ""
   "distributions.pdf" 1590401321 37911 c593bd9c0091fb7192b39fc4688a92c1 ""
+  "lcg.pdf" 1590415100 20127 94e830d31a4adb53427365a11a89c071 ""
   (generated)
-  "Blatt_4.pdf"
-  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.log"
-  "Blatt_4.aux"
-  "Blatt_4.log"
-  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_4.pdf"
+  "Blatt_3,Olbrich,Rotgeri.pdf"
+  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.pdf"
+  "Blatt_3,Olbrich,Rotgeri.log"
+  "Blatt_3,Olbrich,Rotgeri.aux"
+  "/home/hannah/Dokumente/Uni/SMD_Oberordner/SMD/Blatt3/Blatt_3,Olbrich,Rotgeri.log"
