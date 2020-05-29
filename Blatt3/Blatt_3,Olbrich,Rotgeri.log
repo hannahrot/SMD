@@ -1,4 +1,10 @@
+<<<<<<< HEAD
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.2.25)  25 MAY 2020 17:18
+||||||| parent of 6626a2d... Blatt 4 erstellt
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2020.2.25)  25 MAY 2020 13:24
+=======
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/W32TeX)  (format=lualatex 2017.9.23)  25 MAY 2020 15:55
+>>>>>>> 6626a2d... Blatt 4 erstellt
  restricted system commands enabled.
 **Blatt_3,Olbrich,Rotgeri.tex
 (./Blatt_3,Olbrich,Rotgeri.tex
@@ -34,6 +40,39 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
+<<<<<<< HEAD
+luaotfload | main : initialization completed in 0.073 seconds
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/hannah/.texlive2019/texm
+f-var/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+||||||| parent of 6626a2d... Blatt 4 erstellt
+luaotfload | main : initialization completed in 0.060 seconds
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+luaotfload | db : Font names database loaded from /home/hannah/.texlive2019/texm
+f-var/luatex-cache/generic/names/luaotfload-names.luc)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+=======
 luaotfload | main : initialization completed in 0.293 seconds
 Babel <3.13> and hyphenation patterns for 1 language(s) loaded.
 (c:/texlive/2017/texmf-dist/tex/latex/base/article.cls
@@ -51,6 +90,7 @@ luatex-cache/generic/fonts/otl/lmroman10-regular.luc))
 \c@subparagraph=\count84
 \c@figure=\count85
 \c@table=\count86
+>>>>>>> 6626a2d... Blatt 4 erstellt
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
@@ -601,11 +641,24 @@ Package: l3keys2e 2017/09/18 LaTeX2e option processing using LaTeX3 keys
 .................................................
 \g__file_internal_ior=\read1
 
+<<<<<<< HEAD
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+(./Blatt_3,Olbrich,Rotgeri.aux)
+||||||| parent of 6626a2d... Blatt 4 erstellt
+(/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+))
+No file Blatt_3,Olbrich,Rotgeri.aux.
+
+=======
 (c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator.sty
 Package: translator 2010/06/12 ver 1.10
 
 (c:/texlive/2017/texmf-dist/tex/latex/beamer/translator/translator-language-map
 pings.tex))) (./Blatt_3,Olbrich,Rotgeri.aux)
+>>>>>>> 6626a2d... Blatt 4 erstellt
 \openout1 = Blatt_3,Olbrich,Rotgeri.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -622,8 +675,15 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
+<<<<<<< HEAD
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+||||||| parent of 6626a2d... Blatt 4 erstellt
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+=======
 
 (c:/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+>>>>>>> 6626a2d... Blatt 4 erstellt
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count271
 \scratchdimen=\dimen161
@@ -705,15 +765,35 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 14.
 (c:/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+<<<<<<< HEAD
+<lcg.pdf, id=1, 462.528pt x 346.896pt>
+File: lcg.pdf Graphic file (type pdf)
+<use lcg.pdf>
+Package luatex.def Info: lcg.pdf  used on input line 27.
+(luatex.def)             Requested size: 360.0pt x 270.01141pt.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}<./lcg.pdf>]
+||||||| parent of 6626a2d... Blatt 4 erstellt
+=======
 \c__siunitx_mathtt_int=\count278
 (load luc: C:/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman17-re
 gular.luc)(load luc: C:/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lm
 roman12-regular.luc)(load luc: C:/texlive/2017/texmf-var/luatex-cache/generic/fo
 nts/otl/lmroman12-bold.luc)
+>>>>>>> 6626a2d... Blatt 4 erstellt
 Missing character: There is no ² (U+00B2) in font cmr8!
 Missing character: There is no ² (U+00B2) in font cmr8!
 Missing character: There is no ² (U+00B2) in font cmr8!
 Missing character: There is no ² (U+00B2) in font cmr8!
+<<<<<<< HEAD
+<distributions.pdf, id=71, 722.7pt x 722.7pt>
+||||||| parent of 6626a2d... Blatt 4 erstellt
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+<distributions.pdf, id=20, 722.7pt x 722.7pt>
+=======
 
 ! I can't write on file `Blatt_3,Olbrich,Rotgeri.pdf'.
 Please type another file name for output: 
@@ -721,17 +801,90 @@ Please type another file name for output:
 
 {c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <distributions.pdf, id=20, pagebox=cropbox, 722.7pt x 722.7pt>
+>>>>>>> 6626a2d... Blatt 4 erstellt
 File: distributions.pdf Graphic file (type pdf)
 <use distributions.pdf>
+<<<<<<< HEAD
+Package luatex.def Info: distributions.pdf  used on input line 79.
+(luatex.def)             Requested size: 360.0pt x 360.00375pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2] [3<./distributions.pdf>] (./Blatt_3,Olbrich,Rotgeri.aux))
+||||||| parent of 6626a2d... Blatt 4 erstellt
+Package luatex.def Info: distributions.pdf  used on input line 69.
+(luatex.def)             Requested size: 360.0pt x 360.00375pt.
+ [2<./distributions.pdf>]
+(./Blatt_3,Olbrich,Rotgeri.aux))
+=======
 Package luatex.def Info: distributions.pdf  used on input line 71. on input line
  71.
 Package luatex.def Info: Requested size: 360.0pt x 360.00375pt on input line 71.
 
  [2<./distributions.pdf>] (./Blatt_3,Olbrich,Rotgeri.aux))
+>>>>>>> 6626a2d... Blatt 4 erstellt
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD
+ 15619 strings out of 494291
+||||||| parent of 6626a2d... Blatt 4 erstellt
+ 15606 strings out of 494291
+=======
  13545 strings out of 494472
+>>>>>>> 6626a2d... Blatt 4 erstellt
  100000,383344 words of node,token memory allocated
+<<<<<<< HEAD
+ 539 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 1 glyph, 12 attribute, 57 gl
+ue_spec, 8 attribute_list, 1 write nodes
+   avail lists: 2:380,3:143,4:6,5:188,6:18,7:1997,8:88,9:237,10:5,11:175
+ 19540 multiletter control sequences out of 65536+600000
+ 61 fonts using 8062839 bytes
+ 41i,6n,63p,304b,500s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
+mf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/
+public/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmrom
+an17-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb>
+Output written on Blatt_3,Olbrich,Rotgeri.pdf (3 pages, 148741 bytes).
+
+PDF statistics: 238 PDF objects out of 1000 (max. 8388607)
+ 84 compressed objects within 1 object stream
+||||||| parent of 6626a2d... Blatt 4 erstellt
+ 539 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 1 dir, 2 glue, 4 kern, 1 glyph, 12 attribute, 57 gl
+ue_spec, 8 attribute_list, 1 write nodes
+   avail lists: 2:420,3:155,4:6,5:181,6:20,7:1723,8:88,9:240,10:5,11:138
+ 19536 multiletter control sequences out of 65536+600000
+ 61 fonts using 8062839 bytes
+ 41i,6n,63p,304b,500s stack positions out of 5000i,500n,10000p,200000b,100000s
+</usr/share/texmf/fonts/opentype/public/lm/lmroman10-regular.otf></usr/share/tex
+mf/fonts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/
+public/lm/lmroman12-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmrom
+an17-regular.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb>
+Output written on Blatt_3,Olbrich,Rotgeri.pdf (2 pages, 133329 bytes).
+
+PDF statistics: 174 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
+=======
  522 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 1 kern, 7 attribute, 58 glue_spec, 7 attrib
 ute_list, 1 write nodes
@@ -756,6 +909,7 @@ Output written on Blatt_3,Olbrich,Rotgeri.pdf (2 pages, 132701 bytes).
 
 PDF statistics: 176 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
+>>>>>>> 6626a2d... Blatt 4 erstellt
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
