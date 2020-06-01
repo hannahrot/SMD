@@ -15,26 +15,43 @@
     \maketitle
 
     \section*{Aufgabe 1}
-\subsection{Aufgabenteil a}
+\subsection*{Aufgabenteil a}
 Zuerst Nummierung berechnen :
-$1= \int_{-\pi}^{\pi} N e^{-\psi k} d\psi= N \left( [\frac{1}{k}e^{\psi k}]^0_{-\pi} + [-\frac{1}{k}e^{-\psi k}]^\pi_{0}\right)=\frac{2}{k}(1-e^{-\pi k}) \Leftrightarrow N=\frac{k}{2(1-e^{-\pi k})}
-$
+\begin{align*}
+1= \int_{-\pi}^{\pi} N e^{-|\psi| k} d\psi= N \left( [\frac{1}{k}e^{\psi k}]^0_{-\pi} + [-\frac{1}{k}e^{-\psi k}]^\pi_{0}\right)=\frac{2}{k}(1-e^{-\pi k}) \Leftrightarrow N=\frac{k}{2(1-e^{-\pi k})}
+\end{align*}
+Wurde implemetiert, aber leider nicht erfolgreich getestet
 
-\subsection{Aufgabenteil b}
+\subsection*{Aufgabenteil b}
 Kumulative Verteilung berechnen:
-$A(x)=\int_{-\pi}^{\psi}e^{-|\psi|k}d\psi=
-\int_{-\pi}^{0} e^{\psi k} d \psi + \int_{0}^{\psi} e^{-\psi k} d \psi
-= [\frac{1}{k} e^{\psi k}]^0_{-\pi} +[-\frac{1}{k}e^{-\psi k}]^\psi_0
+\begin{align*}
+A(x)=\int_{-\pi}^{\psi}e^{-|\psi|k}d\psi=
+\int_{-\pi}^{0} e^{\psi k} d \psi + \int_{0}^{\psi} e^{-\psi k} d \psi \\
+= \left[\frac{1}{k} e^{\psi k}\right]^0_{-\pi} +\left[-\frac{1}{k}e^{-\psi k}\right]^\psi_0
 =\frac{1}{k}\left(2- e^{-\pi k} - e^{-\psi k} \right)
-$\\
+\end{align*}
 Normierte Fläche:
-$r(x)= A(x)\cdot N = \left(2- e^{-\pi k} - e^{-\psi k} \right) \cdot \frac{1}{2(1-e^{-\pi k})}
-$
-\subsection{Aufgabenteil c}
+\begin{align*}
+r(x)= A(x)\cdot N = \left(2- e^{-\pi k} - e^{-\psi k} \right) \cdot \frac{1}{2(1-e^{-\pi k})}
+\end{align*}
+Wurde implemetiert, aber nicht erfolgreich getestet
+\subsection*{Aufgabenteil c}
 Inverse berechnen:
-$ \psi(r)=-\frac{1}{k}ln(2-2r(1-e^{-\pi k})-e^{-\pi k})
-$
-	\section*{Aufgabe 2}
+\begin{align*}
+ \psi(r)=-\frac{1}{k}\ln(2-2r(1-e^{-\pi k})-e^{-\pi k})
+\end{align*}
+Wurde implemetiert, aber nicht erfolgreich getestet
+
+	\begin{figure}[h]
+
+		\centering
+
+		\includegraphics[width=\textwidth]{exercise_angle_pdf.pdf}
+
+		\caption{Ergebnis der Testdatei von Aufgabe 1}
+
+	\end{figure}
+\section*{Aufgabe 2}
 
 
 \end{document}
